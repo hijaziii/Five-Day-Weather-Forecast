@@ -1,0 +1,44 @@
+#searchicon{
+    padding: 6px 5px 0px 5px;
+
+}
+
+.searcharea {
+    background-color: rgb(251, 252, 248);
+    padding: 20px;
+}
+
+.uvindex {
+    padding: 6px;
+}
+
+.one-fifth {
+    box-sizing: border-box;
+    width: 20%;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.one-fifth:first-child {
+    margin-left: 0px;
+}
+
+.one-fifth:last-child{
+    margin-right: 0px;
+}
+
+.forecast {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px 0px;
+}
+
+
+
+
+
+
+
+
